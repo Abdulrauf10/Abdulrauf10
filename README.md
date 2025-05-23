@@ -1,6 +1,10 @@
 ## Hi there, Welcome to my github 👋
 
-![ponyo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpyMWFmcHRod285NjB4ZmVjZHJpMGdkZ21idTcxaWF1cjV0a3M2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9NrmGiBbsvfO/giphy.gif)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpyMWFmcHRod285NjB4ZmVjZHJpMGdkZ21idTcxaWF1cjV0a3M2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9NrmGiBbsvfO/giphy.gif" 
+       alt="ponyo" 
+       style="width: 100%; max-width: 800px;" />
+</p>
 
 ##### Skills
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
